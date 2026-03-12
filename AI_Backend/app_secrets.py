@@ -1,0 +1,4 @@
+
+GEMINI_API_KEY = "AIzaSyBWmcY7majbG4olrt2Ur8Yc58tD6ARUXAM"
+# GEMINI_API_KEY = "AIzaSyCGuJvxNXXMrdOUXCp4l6LZwtT5p_nkkUs"
+CHROMA_DB_PATH = "./chroma_db_data"
